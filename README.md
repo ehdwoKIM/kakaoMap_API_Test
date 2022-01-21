@@ -1,6 +1,6 @@
 # kakaoMap_API_Test
 
-* 실제 구동화면 주소 https://ehdwoKIM.github.io/
+* 실제 구동화면 주소 https://ehdwoKIM.github.io/kakaoMap_API_Test/
 
 * 카카오 DEVTOK 주소 (FAQ) https://devtalk.kakao.com/
 
